@@ -31,3 +31,6 @@ build/
 # Logs
 logs/
 *.log
+
+# Project documentation (local only)
+project-info/
